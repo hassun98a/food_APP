@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     EditText mail,password;
     Button login;
     TextView forgetpassword;
+    Button hello;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
