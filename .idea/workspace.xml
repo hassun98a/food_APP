@@ -11,15 +11,6 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin1" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
@@ -35,7 +26,7 @@
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[ba6758070820]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -91,6 +82,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="001128b039b262dae9636c0c232b79556d339445" />
+  </component>
   <component name="ProjectId" id="1pkXYtjF4SfPnycVsMFEXI6uWsX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -112,7 +106,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -249,6 +243,31 @@
             </State>
           </value>
         </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/hassounkaroum/Downloads/foodAPP/app" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -259,6 +278,7 @@
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
@@ -284,6 +304,14 @@
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state x="128" y="84" width="1024" height="585" key="DiffContextDialog/0.23.1280.732@0.23.1280.732" timestamp="1616065451609" />
+    <state x="140" y="78" key="Git.Interactive.Rebase.Dialog" timestamp="1616610425587">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="140" y="78" key="Git.Interactive.Rebase.Dialog/0.23.1280.732@0.23.1280.732" timestamp="1616610425587" />
+    <state x="509" y="291" width="262" height="264" key="Github.ShareDialog" timestamp="1616612985237">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="509" y="291" width="262" height="264" key="Github.ShareDialog/0.23.1280.732@0.23.1280.732" timestamp="1616612985237" />
     <state width="1236" height="182" key="GridCell.Tab.0.bottom" timestamp="1615759893174">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
@@ -300,26 +328,34 @@
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state width="1236" height="182" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1615759893173" />
-    <state x="446" y="97" key="RollbackChangesDialog" timestamp="1616065875829">
+    <state x="446" y="97" key="RollbackChangesDialog" timestamp="1616612222991">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state x="446" y="97" key="RollbackChangesDialog/0.23.1280.732@0.23.1280.732" timestamp="1616065875829" />
-    <state x="141" y="26" key="SettingsEditor" timestamp="1616061655482">
+    <state x="446" y="97" key="RollbackChangesDialog/0.23.1280.732@0.23.1280.732" timestamp="1616612222991" />
+    <state x="141" y="26" key="SettingsEditor" timestamp="1616612754392">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state x="141" y="26" key="SettingsEditor/0.23.1280.732@0.23.1280.732" timestamp="1616061655482" />
-    <state x="161" y="118" key="Vcs.Push.Dialog.v2" timestamp="1616066211818">
+    <state x="141" y="26" key="SettingsEditor/0.23.1280.732@0.23.1280.732" timestamp="1616612754392" />
+    <state x="161" y="118" key="Vcs.Push.Dialog.v2" timestamp="1616612433126">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state x="161" y="118" key="Vcs.Push.Dialog.v2/0.23.1280.732@0.23.1280.732" timestamp="1616066211818" />
+    <state x="161" y="118" key="Vcs.Push.Dialog.v2/0.23.1280.732@0.23.1280.732" timestamp="1616612433126" />
     <state x="423" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616065404583">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state x="423" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.732@0.23.1280.732" timestamp="1616065404583" />
+    <state x="413" y="256" key="git4idea.rebase.GitRebaseDialog" timestamp="1616610405016">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="413" y="256" key="git4idea.rebase.GitRebaseDialog/0.23.1280.732@0.23.1280.732" timestamp="1616610405016" />
     <state x="377" y="273" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616064958842">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state x="377" y="273" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1280.732@0.23.1280.732" timestamp="1616064958842" />
+    <state x="404" y="293" key="git4idea.ui.GitStashDialog" timestamp="1616610396629">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="404" y="293" key="git4idea.ui.GitStashDialog/0.23.1280.732@0.23.1280.732" timestamp="1616610396629" />
     <state x="305" y="174" width="670" height="675" key="run.anything.popup" timestamp="1615757218136">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
