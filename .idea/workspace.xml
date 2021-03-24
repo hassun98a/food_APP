@@ -15,9 +15,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc3c9f49-e9dd-47bc-861d-c315eaa88580" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc3c9f49-e9dd-47bc-861d-c315eaa88580" name="Default Changelist" comment="add forget password text view" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616066136315</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add forget password text view">
+      <created>1616613293361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616613293361</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,7 +290,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="add forget password text view" />
+    <option name="LAST_COMMIT_MESSAGE" value="add forget password text view" />
   </component>
   <component name="WindowStateProjectService">
     <state x="165" y="126" key="#PSD" timestamp="1615757566159">
@@ -370,7 +376,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/hssnun/foodapp/MainActivity.java</url>
-          <line>35</line>
+          <line>37</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
